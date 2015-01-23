@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'mysql.idhostinger.com';
-$db['default']['username'] = 'u469955749_oki';
-$db['default']['password'] = 'pocket5568';
-$db['default']['database'] = 'u469955749_short';
+$db['default']['hostname'] = 'localhost';//change the password to your hosting address if you are not in localhost
+$db['default']['username'] = 'username';//change the username to your mysql username
+$db['default']['password'] = 'password';//change the password to your mysql password
+$db['default']['database'] = 'url_short';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
