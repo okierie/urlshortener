@@ -4,7 +4,7 @@
 
 #first thing to do
  Before you run and try this application, please import the (example) database located in `database` directory, the file name is url_short.sql.
-#what are the function inside
+#what are the functions inside
  > the generator of the short url
  
  > url validator => validate the url and to check if the url has been shorten and saved before (already exist)
